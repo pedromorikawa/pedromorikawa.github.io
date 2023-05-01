@@ -1,0 +1,25 @@
+.semana{
+    background-color: rgb(120, 220, 100);
+}
+.mes{
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(3, 94, 3);
+}
+.feriado{
+    background-color: green;
+}
+.inicio{
+    background-color: rgb(254, 254, 114);
+}
+.recuperação{
+    background-color: rgb(229, 229, 151);
+}
+.examefinal{
+    background-color: rgb(218, 123, 123);
+}
+.td:first-child{
+    font-weight: bold;
+    font-style: italic; 
+    font-family: Arial, Helvetica, sans-serif;
+}
