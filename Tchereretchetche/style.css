@@ -1,0 +1,20 @@
+.container{
+    border: 3px solid red;
+    width: 300px;
+    height: 180px;
+    background: black;
+}
+div{
+    border: 3px dotted white;
+    background: #c3c3c3;
+}
+.container> div:nth-child(2n){
+    background-color: cornflowerblue;
+}
+.div1{ width: 100px; height: 50px;}
+.div2{ width: 65px;  height: 40px;}
+.div3{ width: 50px;  height: 45px;}
+.div4{ width: 115px; height: 60px;clear: left;}
+.div5{ width: 45px;  height: 20px;}
+.div6{ width: 50px;  height: 30px;}
+.container > div {float: left;} 
