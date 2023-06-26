@@ -1,0 +1,27 @@
+.planodefundo {
+    height: 900;
+    width: 1905;
+    background-image: -1px;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+
+.armas{
+    float: left;
+    border: 2px dotted rgb(0, 0, 0);
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-top: 15px;
+}
+
+.agentes{
+    float: left;
+    border: 2px dotted rgb(0, 0, 0);
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-top: 15px;
+}
